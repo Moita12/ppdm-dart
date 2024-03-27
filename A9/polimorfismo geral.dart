@@ -1,4 +1,4 @@
-import 'classe pessoa.dart';
+import 'classe geral.dart';
 
 void main() {
   Lobo lobo = new Lobo();
